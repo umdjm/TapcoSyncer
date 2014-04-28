@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Url:</b>
+  <%= @api_call.url %>
+</p>
+
+<p>
+  <b>Call time:</b>
+  <%= @api_call.call_time %>
+</p>
+
+
+<%= link_to 'Edit', edit_api_call_path(@api_call) %> |
+<%= link_to 'Back', api_calls_path %>

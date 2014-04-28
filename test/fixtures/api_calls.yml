@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  url: MyString
+  call_time: 2014-04-28 16:27:52
+
+two:
+  url: MyString
+  call_time: 2014-04-28 16:27:52
